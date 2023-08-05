@@ -1,13 +1,14 @@
-# Canada PR Immigration Analysis 🇨🇦📊
+# Canada's PR Immigration Analysis 📊
 
 **Description:** Analyze trends and insights on Canada's PR immigration using this interactive Power BI report.
 
 **Features:**
-1. Immigration Landscape: Overview of immigration from 2015 to 2022.
-2. Country-Specific Immigration Trends:
+1. Immigration Landscape:
+   - Overview of immigration from 2015 to 2022.
+3. Country-Specific Immigration Trends:
    - Analyze immigration trends for different countries.
    - Explore immigration programs and their popularity.
-3. Provincial Immigration Trends:
+4. Provincial Immigration Trends:
    - Examine immigration trends across provinces.
    - Gender distribution and age range insights.
    - NOC code analysis for occupation trends.
@@ -24,7 +25,6 @@ The datasets are publicly available under the [Open Government License - Canada]
 Please refer to the provided links for detailed information about each dataset and the terms of use.
 
 
-**Note:** Data is for demonstration purposes only.
 
 
 
