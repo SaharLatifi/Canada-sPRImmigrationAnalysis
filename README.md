@@ -25,7 +25,7 @@ The datasets are publicly available under the [Open Government License - Canada]
 Please refer to the provided links for detailed information about each dataset and the terms of use.
 
 Link to the Power BI dashboard:
-   https://lnkd.in/gUFeVgdt
+   [https://lnkd.in/gUFeVgdt](https://app.powerbi.com/view?r=eyJrIjoiMWM1N2ViYTEtYjUxYi00OTlhLWI1MmYtZmQ5YzZiNWQyYjgxIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9)https://app.powerbi.com/view?r=eyJrIjoiMWM1N2ViYTEtYjUxYi00OTlhLWI1MmYtZmQ5YzZiNWQyYjgxIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9
 
 
 
